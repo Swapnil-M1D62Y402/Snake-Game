@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://12m8tqds15td"
+path="res://.godot/imported/wall.mp3-bde4a8034c0e0689516362a8a6b93dad.mp3str"
+
+[deps]
+
+source_file="res://Snake Game/Sounds/wall.mp3"
+dest_files=["res://.godot/imported/wall.mp3-bde4a8034c0e0689516362a8a6b93dad.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
